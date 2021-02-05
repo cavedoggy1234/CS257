@@ -1,0 +1,36 @@
+/*Made By Sam Gloss */ 
+body {
+    margin: 20px;
+}
+
+#pokemon {
+    height: 500px;
+    width: 100%;
+}
+
+#bulbasaur {
+    width: 100%;
+    height: 40%;
+    float:left;
+    font-size: 24pt;
+    color: white;
+    background-color: green;
+}
+
+#squirtle {
+    width: 40%;
+    height: 40%;
+    float:left;
+    font-size: 24pt;
+    color: white;
+    background-color: #0000aa;
+}
+
+#charmander {
+    width: 60%;
+    height: 40%;
+    float:left;
+    font-size: 24pt;
+    color: white;
+    background-color: #aa0000;
+}
