@@ -11,4 +11,4 @@ The teams buttons on the side nav lets you see a teams roster by season, month, 
 The search players button allows you to search players and see their individual players page individual month/season data. It requires the user to unfortunately select the player name instead of just entering it even if they spelled it correctly.   
 To return home, the header of the page along with the logo are clickable and bring you to the home page. 
 
-To run the program. Use APP.py
+To run the program. Use APP.py in backup files. 
